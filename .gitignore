@@ -1,0 +1,17 @@
+# ---- 构建产物（模组本体由 NML 在游戏启动时编译，仓库里不需要这些）----
+bin/
+obj/
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+
+# ---- 系统垃圾文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 编辑器 ----
+.idea/
+.vscode/

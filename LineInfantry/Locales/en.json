@@ -1,0 +1,16 @@
+{
+    "LineInfantry": "Line Infantry",
+    "LineInfantry Description": "Extends the tech tree of all four races into the gunpowder era: Arquebus, Heavy Musket, Flintlock and Rifled Musket, with volley-fire line tactics.",
+    "li_arquebus": "Arquebus",
+    "li_arquebus_description": "The dawn of the gunpowder age. A slow reload traded for a single shot that tears through old leather armor.",
+    "li_musket": "Heavy Musket",
+    "li_musket_description": "A heavy matchlock built to punch through the thickest plate. Big bore, slow reload, terrifying power.",
+    "li_flintlock": "Flintlock Musket",
+    "li_flintlock_description": "Flint ignition and paper cartridges double the rate of fire. Musketeers now rely on volley fire, not luck.",
+    "li_rifled": "Rifled Musket",
+    "li_rifled_description": "Rifling meets the Minié ball: doubled effective range. The dense line is both thunder and swan song.",
+    "craftPriority": "Prioritize Musket Crafting",
+    "craftPriority Description": "Cultures prefer to craft muskets when forging weapons.",
+    "spawnWithMusket": "Spawn With Muskets",
+    "spawnWithMusket Description": "New recruits of developed cities spawn with the musket tier matching the city's size."
+}

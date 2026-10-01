@@ -1,0 +1,16 @@
+{
+    "LineInfantry": "线列步兵",
+    "LineInfantry Description": "四大种族的科技树延伸到火药时代：火绳钩枪、重穆什克特、燧发枪、线膛枪，并让持枪小人打出线列战术。",
+    "li_arquebus": "火绳钩枪",
+    "li_arquebus_description": "火药时代的黎明。缓慢的装填换来一击可撕裂旧式皮甲的单发威力。",
+    "li_musket": "重穆什克特",
+    "li_musket_description": "为击穿最重的板甲而生的重型火绳枪，大口径重弹，装填缓慢但威力惊人。",
+    "li_flintlock": "燧发枪",
+    "li_flintlock_description": "燧石击发与纸制定装弹壳让装填速度倍增，火枪手终于可以依靠排枪火力而非运气。",
+    "li_rifled": "线膛枪",
+    "li_rifled_description": "膛线与米涅弹的结合，有效射程翻倍。密集的线列在它面前既是雷霆也是绝唱。",
+    "craftPriority": "火枪制造优先",
+    "craftPriority Description": "文化锻造武器时优先制造火枪。",
+    "spawnWithMusket": "新兵持火枪",
+    "spawnWithMusket Description": "发达城市的新兵按城市规模直接持相应等级的火枪出场。"
+}

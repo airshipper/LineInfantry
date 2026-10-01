@@ -1,0 +1,8 @@
+{
+  "name": "LineInfantry 线列步兵",
+  "author": "27738",
+  "version": "1.0.0",
+  "description": "四大种族科技树延伸至火药时代：四级火枪（火绳钩枪/重穆什克特/燧发枪/线膛枪），弹道平直、伤害极高、射程更远。持枪小人会以线列步兵战术作战——在国境线内集结成排、按兵力推进到敌城外列阵齐射，地图上以王国颜色绘制战线。 Extends all four races into the gunpowder era with four tiers of muskets and line-infantry tactics.",
+  "targetGameBuild": 653,
+  "iconPath": "icon.png"
+}

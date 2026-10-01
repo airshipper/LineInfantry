@@ -1,0 +1,29 @@
+{
+    "LineInfantry": [
+        {
+            "Id": "craftPriority",
+            "Type": "SWITCH",
+            "BoolVal": true
+        },
+        {
+            "Id": "spawnWithMusket",
+            "Type": "SWITCH",
+            "BoolVal": false
+        },
+        {
+            "Id": "kingdomFocus",
+            "Type": "SWITCH",
+            "BoolVal": true
+        },
+        {
+            "Id": "lineFormation",
+            "Type": "SWITCH",
+            "BoolVal": true
+        },
+        {
+            "Id": "frontlineVisual",
+            "Type": "SWITCH",
+            "BoolVal": true
+        }
+    ]
+}
